@@ -1,0 +1,10 @@
+Brayo,Kitush,60,70,80,90,55
+Ronny,Dev,55,77,66,44,65
+Salat,Cade,61,64,62,63,61
+Pate,Pat,71,69,50,83,68
+Lenko,Lenko,82,90,73,69,54
+Peter,Bro,65,55,73,87,79
+Miss,P,92,76,57,89,67
+Mickey,Kickey,70,45,47,29,47
+Ras,Ras,18,76,74,30,67
+Koko,Koki,22,22,42,62,92
